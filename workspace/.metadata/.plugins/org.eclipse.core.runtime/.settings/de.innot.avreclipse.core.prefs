@@ -1,0 +1,17 @@
+avrdude/configs/programmerconfig.1/baudrate=
+avrdude/configs/programmerconfig.1/description=git12345 arduino programmer configuration
+avrdude/configs/programmerconfig.1/name=Arduino Programmer
+avrdude/configs/programmerconfig.1/port=/dev/tty.usbmodem411
+avrdude/configs/programmerconfig.1/postAvrdudeDelayMs=
+avrdude/configs/programmerconfig.1/ppresetline=
+avrdude/configs/programmerconfig.1/ppvccline=
+avrdude/configs/programmerconfig.1/programmer=arduino
+avrdudepropertypage/previewexpanded=false
+avrdudepropertypage/weight_preview_collapsed=50
+avrdudepropertypage/weight_preview_expanded=20
+avrdudepropertypage/weight_top_collapsed=950
+avrdudepropertypage/weight_top_expanded=80
+avrpaths//systempath/AVRDUDE=/usr/local/CrossPack-AVR-20120217/bin
+avrpaths//systempath/AVRGCC=/usr/local/CrossPack-AVR-20120217/bin
+avrpaths//systempath/MAKE=/usr/bin
+eclipse.preferences.version=1
